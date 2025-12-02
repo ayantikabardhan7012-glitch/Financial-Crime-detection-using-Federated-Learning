@@ -1,0 +1,6 @@
+# use python version == 3.11.5
+
+flwr==1.10.0
+torch 
+torchvision 
+torchaudio
